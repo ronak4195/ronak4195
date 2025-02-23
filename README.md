@@ -59,7 +59,7 @@ I'm a **Final Year B.Tech Student pursuing Computer Science and Engineering at N
 - Codeforces: **Pupil**
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronak4195_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronak4195&show_icons=true&theme=radical)
 
 
 ## 🤝 Let's Connect!
